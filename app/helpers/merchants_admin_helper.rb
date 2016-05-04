@@ -1,0 +1,2 @@
+module MerchantsAdminHelper
+end
